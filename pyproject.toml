@@ -1,0 +1,12 @@
+[project]
+name = "Sandbox-repo"
+version = "0.1.0"
+description = "A place for me to expiriment with coding"
+authors = [ {name="Robert Nottbohm"}]
+dependencies = [
+    "pandas",
+    "numpy",
+    "python-math",
+    "matplotlib"
+    # Add other dependencies as needed
+]
